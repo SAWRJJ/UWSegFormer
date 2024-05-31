@@ -7,6 +7,6 @@ More information will be available when the paper is published
 ## Test
   Download trained weights.  Evaluate UWSegFormer on SUIM:  
   `python tools/test.py local_configs/uwsegformer/uw.b0.640x480.suim.160k.py model_checkpoint_path --eval mIoU`
-  or evaluate UWSegFormer on DUT:
+    or evaluate UWSegFormer on DUT:  
   `python tools/test.py local_configs/uwsegformer/uw.b0.640x480.dut.40k.py model_checkpoint_path --eval mIoU`
 
