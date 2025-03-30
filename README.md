@@ -26,5 +26,5 @@ data
   `python tools/test.py local_configs/uwsegformer/uw.b0.640x480.suim.160k.py model_checkpoint_path --eval mIoU`  
   or evaluate UWSegFormer on DUT:  
   `python tools/test.py local_configs/uwsegformer/uw.b0.640x480.dut.40k.py model_checkpoint_path --eval mIoU`  
-  Note that all checkpoints and datasets are available at [Google Drive](https://drive.google.com/drive/u/0/folders/1-qtLVDZzWg62khOEaPZXmM3I_8noA4WW)
+  Note that all checkpoints and datasets are available at [Google Drive](https://drive.google.com/drive/u/0/folders/1-qtLVDZzWg62khOEaPZXmM3I_8noA4WW) and [BaiDu Drive](https://pan.baidu.com/s/19fEGw3Hi0AHq6eP0TdI2Yw?pwd=ynia)
 
